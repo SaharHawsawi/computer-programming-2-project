@@ -62,7 +62,7 @@ Formatted Console Output : Display organization details, product information, an
 * [ ]	Interactive Menu — Allow users to choose operations through a console menu.
 * [ ]	Graphical User Interface (GUI) — Build a graphical interface using JavaFX.
 # 👩‍💻 Contributors
-* Sahar Hawsawi [Linkedin profile](www.linkedin.com/in/sahar-hawsawi-4133aa361)
+* Sahar Hawsawi [linkedin profile](https://www.linkedin.com/in/sahar-hawsawi-4133aa361)
 * *second Contributor's name and Linkedin account will be updated once I have it*
 
 ⭐ Thank you for visiting this repository!
